@@ -4,28 +4,28 @@ This repository contains a Power BI dashboard designed to analyze and visualize 
 
   Features:
 
-Employee demographic analysis (age, gender, department, education, etc.)
+1. Employee demographic analysis (age, gender, department, education, etc.)
 
-Attrition insights and retention trends
+2. Attrition insights and retention trends
 
-Performance and satisfaction metrics
+3. Performance and satisfaction metrics
 
-Job role–wise and department-wise comparisons
+4. Job role–wise and department-wise comparisons
 
-Interactive filters and drill-through analysis
+5. Interactive filters and drill-through analysis
 
   Tools & Technologies:
 
-Power BI Desktop – Data modeling and dashboard creation
+1. Power BI Desktop – Data modeling and dashboard creation
 
-Data Sources – (Update with your data source, e.g., CSV/Excel/SQL Server)
+2. Data Sources – Excel file
 
-DAX – For calculated measures and KPIs
+3. DAX – For calculated measures and KPIs
 
 Use Cases:
 
-HR teams for monitoring attrition and workforce trends
+1. HR teams for monitoring attrition and workforce trends
 
-Managers to identify high-performing teams and improvement areas
+2. Managers to identify high-performing teams and improvement areas
 
-Business leaders to make data-driven HR decisions
+3. Business leaders to make data-driven HR decisions
